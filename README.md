@@ -1,2 +1,0 @@
-# Manuel-Bandeira
-Trabalho escolar
