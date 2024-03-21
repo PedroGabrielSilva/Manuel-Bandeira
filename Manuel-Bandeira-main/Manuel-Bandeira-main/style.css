@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .cabecalho{
     background:#383D58 ;
     color: white ;
@@ -7,6 +11,9 @@
 .cabecalho-img{
     width: 20%;
 }
-.cabecalho-lista{
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    padding:24px 0 ;
 
 }
